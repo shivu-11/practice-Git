@@ -1,0 +1,36 @@
+git config --global user.name ""
+git config --global user.email ""
+
+
+git init
+
+git add .
+git commit -m ""   
+git status
+
+git log
+git checkout "hashcode"
+
+
+git checkout master->branch name
+
+git branch branchname    or   git checkout -b branchname
+
+git branch -a
+git branch -d branchname
+
+git merge branchname
+
+git remote add origin "link"
+git push --set-upstream origin master->branchname
+
+
+
+GitHub info:-
+
+Pass:
+Shreethakkar11
+User name:
+shivu-11
+email:
+thakkarshree48@gmail.com
